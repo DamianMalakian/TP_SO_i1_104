@@ -11,3 +11,4 @@ d-¿De qué forma se comunicaron ustedes?
 Nos comunicamos via Discord y chat de texto
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de GitHub?
+la mejor forma de comunicarse GitHub es por comentarios
