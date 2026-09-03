@@ -1,8 +1,8 @@
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
-
+Se visualizan los datos comiteados correctamente desde el repositorio 12:16hs
 
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
-
+Los demás colaboradores visualizan los archivos generados correctamente. 
 
 c-¿Si BETA agrega un archivo los demás integrantes lo ven?
 
